@@ -1,0 +1,18 @@
+.goUpButton{
+    background-image: url("upIcon.png");
+    height:36px;
+    width:36px;
+    position: fixed;
+    bottom: 10%;
+    right:5px;
+}
+
+.goUpButton:hover {
+    box-shadow: 0 0 2px 1px black;
+}
+
+p{
+    font-size:xx-large;
+    color: gray;
+}
+
