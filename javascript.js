@@ -6,8 +6,6 @@ $(document).ready(function() {
 				$("html, body").animate({ scrollTop: 0 }, "slow");
 			})
 		});
-
-
 //MultiText
 var text = "";
 var i;
